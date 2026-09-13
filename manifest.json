@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ERDCloud Custom Style",
+  "version": "1.0.0",
+  "description": "Hides selected ERDCloud ad elements and expands the ERD area.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.erdcloud.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
