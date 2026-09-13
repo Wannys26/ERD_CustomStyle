@@ -8,7 +8,7 @@ ERDCloud에서 지정된 광고 영역을 숨기고 ERD 작업 영역을 화면 
 
 1. 이 저장소를 내려받습니다.
    - GitHub의 **Code → Download ZIP**을 선택하거나 `git clone`으로 받습니다.
-2. Chrome 주소창에 `chrome://extensions`를 입력해 확장 프로그램 관리 화면을 엽니다.
+2. Chrome 주소창에 `chrome://extensions`를 입력해 확장 프로그램 관리 화면을 엽니다. [크롬 확장프로그램 관리](chrome://extensions)
 3. 우측 상단의 **개발자 모드**를 켭니다.
 4. **압축해제된 확장 프로그램을 로드**를 클릭합니다.
 5. 내려받아 압축을 푼 저장소 폴더를 선택합니다. `manifest.json`이 들어 있는 폴더를 선택하면 됩니다.
