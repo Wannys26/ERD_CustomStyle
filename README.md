@@ -19,9 +19,10 @@ ERDCloud에서 지정된 광고 영역을 숨기고 ERD 작업 영역을 화면 
 ## 2. Tampermonkey 확장 프로그램으로 사용
 
 1. Chrome 웹 스토어에서 [Tampermonkey](https://www.tampermonkey.net/)를 설치합니다.
-2. Tampermonkey 대시보드에서 **새 스크립트 만들기**를 선택합니다.
-3. 기본 내용을 모두 지우고 아래 코드를 붙여 넣습니다.
-4. 저장한 뒤 ERDCloud 페이지를 새로고침합니다.
+2. Chrome 우측 상단 Tampermonkey 확장 프로그램 관리 -> 사용자 스크립트 허용
+3. Tampermonkey 대시보드에서 **새 스크립트 만들기**를 선택합니다.
+4. 기본 내용을 모두 지우고 아래 코드를 붙여 넣습니다.
+5. 저장한 뒤 ERDCloud 페이지를 새로고침합니다.
 
 ```javascript
 // ==UserScript==
